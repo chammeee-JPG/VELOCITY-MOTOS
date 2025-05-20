@@ -24,6 +24,8 @@ El sitio web de **Velocity-Moto** fue creado para ofrecer una experiencia digita
 
 ## 📂 Estructura del Proyecto
 
+### HTML
+
 kawasaki/
 │
 ├── index.html                   ← Página principal
@@ -32,16 +34,27 @@ kawasaki/
 ├── servicios.html               ← Página de servicios (formulario con turno)
 ├── novedades.html               ← Página de novedades (noticias)
 ├── contacto.html                ← Página de contacto
-│
+├── ATV.html                     ← Página de atv
+├── UTV.html                     ← Página de utv
+
+### ESTILOS 
+
 ├── estilo-index.css             ← Estilos específicos para index.html
 ├── estilo-motos.css             ← Estilos para motos.html
 ├── estilo-accesorios.css        ← Estilos para accesorios.html
 ├── estilo-servicios.css         ← Estilos para servicios.html
 ├── estilo-novedades.css         ← Estilos para novedades.html
 ├── estilo-contacto.css          ← Estilos para contacto.html
-│
+├── estilo-ATV.css               ← Estilos para ATV.html
+├── estilo-UTV.css               ← Estilos para UTV.html
+
+### TURNERO PHP
+
 ├── procesar-turno.php           ← Script PHP que procesa el formulario de turno
-│
+
+
+### IMAGENES 
+
 ├── 📁 Imagenes/               ← Carpeta para imágenes
 │   ├── logo.03.png              ← Logo de Kawasaki
 │   ├── conce.jpg                ← Imagen del servicio técnico
